@@ -120,6 +120,3 @@ This project was developed for a hackathon.
 
 
 
-run kar lena.
-
-Tumhara current backend GitHub par already safe hai; ye sirf README ko professional/documented banane ka improvement hai.
