@@ -1,15 +1,3 @@
-Haan, screenshot se confirm hai ki README successfully GitHub par update ho gaya hai. ✅
-
-Lekin ek chhota formatting issue hai: neeche:
-
-API Endpoints POST /api/auth/signup POST /api/auth/login ...
-Setup npm install npm run dev
-
-sab ek hi line mein render ho raha hai. README ko hackathon presentation ke liye thoda professional bana dete hain.
-
-Recommended README
-
-GitHub ke README ke edit ✏️ button par click karke poora existing content replace karo:
 
 # ScamShield Backend
 
