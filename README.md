@@ -115,7 +115,6 @@ Development
 npm run dev
 License
 
-This project was developed for a hackathon.
 
 
 
