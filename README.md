@@ -164,4 +164,4 @@ npm run dev
 
 ---
 
-Built for the **ScamShield Hackathon Project** 🛡️
+Built for the **Hackathon Project** 🛡️
